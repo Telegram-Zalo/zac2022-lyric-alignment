@@ -1,0 +1,5 @@
+/data
+/pretrained
+/checkpoints
+__pycache__
+.DS_Store
